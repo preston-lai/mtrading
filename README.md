@@ -1,4 +1,3 @@
 # mtrading
-Trading bot utilizing the "momentum" trading strategy
+Trading bot utilizing the "momentum" trading strategy.
 
-gittest
